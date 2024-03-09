@@ -1,0 +1,6 @@
+@ColumbiaApi_HostAddress = http://localhost:5263
+
+GET {{ColumbiaApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
